@@ -301,7 +301,7 @@ spec:
 EOF
 ```
 
-### Integration dasboard
+### Integration dasboard (App Connect Enterprise)
 
 ```
 cat << EOF | oc apply -f -
@@ -398,7 +398,7 @@ spec:
 EOF
 ```
 
-### Messaging
+### Messaging (MQ)
 
 ```
 cat << EOF | oc apply -f -
