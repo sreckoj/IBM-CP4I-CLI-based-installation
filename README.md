@@ -228,7 +228,7 @@ spec:
 EOF
 ```
 
-### Event Streams
+### Event Streams (Kafka)
 
 ```
 cat << EOF | oc apply -f -
